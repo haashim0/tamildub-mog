@@ -64,4 +64,4 @@ LOG_STR += ("Spell Check Mode Is Enabled, bot will be suggesting related movies 
 LOG_STR += (f"MAX_LIST_ELM Found, long list will be shortened to first {MAX_LIST_ELM} elements\n" if MAX_LIST_ELM else "Full List of casts and crew will be shown in imdb template, restrict them by adding a value to MAX_LIST_ELM\n")
 LOG_STR += f"Your current IMDB template is {IMDB_TEMPLATE}"
 
-SHORTENER_API = environ.get("SHORTENER_API", "e0867ce24e2238645541bf7651be2217b4cd5dd1")
+SHORTENER_API = environ.get("SHORTENER_API", "04a06752383e46667525e4ed69c169bc7d3403da")
