@@ -74,8 +74,8 @@ async def next_page(bot, query):
 
     btn.insert(0, 
         [
-            InlineKeyboardButton('ɢʀᴏᴜᴘ', url='https://tx.me/TamilDub_Linkzz'),
-            InlineKeyboardButton('ᴄʜᴀɴɴᴇʟ', url='https://tx.me/TamilDub_Linkzz')
+            InlineKeyboardButton('🌟 ᴄʜᴀɴɴᴇʟ', url='https://tx.me/TamilDub_Linkzz'),
+            InlineKeyboardButton('💞 sʜᴀʀᴇ', url="https://t.me/share/url?url=Hi+bro%2C%0D%0AThis+bot+is+very+cool+%40TamilMovies_filter_bot+all+language+movies+are+available+in+the+bot+just+add+the+bot+to+your+groups+and+make+it+admin+it+will+start+provide+movies+in+your+groups+click+this+link+to+add+the+bot+%F0%9F%91%89+https%3A%2F%2Ft.me%2FTamilMovies_filter_bot%3Fstartgroup%3Dtrue")
         ]
     )
    
@@ -680,8 +680,8 @@ async def auto_filter(client, msg, spoll=False):
 
     btn.insert(0, 
         [
-            InlineKeyboardButton('ɢʀᴏᴜᴘ', url='https://tx.me/TamilDub_Linkzz'),
-            InlineKeyboardButton('ᴄʜᴀɴɴᴇʟ', url='https://tx.me/TamilDub_Linkzz')
+            InlineKeyboardButton('🌟 ᴄʜᴀɴɴᴇʟ', url='https://tx.me/TamilDub_Linkzz'),
+            InlineKeyboardButton('💞 sʜᴀʀᴇ', url="https://t.me/share/url?url=Hi+bro%2C%0D%0AThis+bot+is+very+cool+%40TamilMovies_filter_bot+all+language+movies+are+available+in+the+bot+just+add+the+bot+to+your+groups+and+make+it+admin+it+will+start+provide+movies+in+your+groups+click+this+link+to+add+the+bot+%F0%9F%91%89+https%3A%2F%2Ft.me%2FTamilMovies_filter_bot%3Fstartgroup%3Dtrue")
         ]
     )
     
