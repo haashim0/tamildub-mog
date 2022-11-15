@@ -23,10 +23,10 @@ async def start(client, message):
     if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [
             [
-                InlineKeyboardButton('🤖ᴜᴘᴅᴀᴛᴇ🤖', url='https://t.me/TrockersLinks')
+                InlineKeyboardButton('🤖ᴜᴘᴅᴀᴛᴇ🤖', url='https://t.me/TamilDub_Linkzz')
             ],
             [
-                InlineKeyboardButton('𝙿𝚁𝙸𝚅𝙰𝚃𝙴 𝙱𝙾𝚃', url=f"https://t.me/HAASHIM_999"),
+                InlineKeyboardButton('𝙿𝚁𝙸𝚅𝙰𝚃𝙴 𝙱𝙾𝚃', url=f"https://t.me/TamilDubAdmin_bot"),
             ]
             ]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -44,10 +44,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
-            InlineKeyboardButton('🔥ᴄʟɪᴄᴋ ʜᴇʀᴇ ꜰᴏʀ ᴘᴀɪᴅ ᴘʀᴏᴍᴏᴛɪᴏɴ🔥', callback_data='source')
-        ], [
-            InlineKeyboardButton('🌿ᴍʏ ᴏᴡɴᴇʀ🌿', url='https://tx.me/TamilDubAdmin_bot'),
-            InlineKeyboardButton('☺️ᴀʙᴏᴜᴛ ᴍᴇ☺️', callback_data='about')
+            InlineKeyboardButton('ᴍʏ ᴏᴡɴᴇʀ 🌿', url='https://tx.me/TamilDubAdmin_bot'),
+            InlineKeyboardButton('ᴀʙᴏᴜᴛ ᴍᴇ ☺️', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -89,10 +87,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
-            InlineKeyboardButton('🔥ᴄʟɪᴄᴋ ʜᴇʀᴇ ꜰᴏʀ ᴘᴀɪᴅ ᴘʀᴏᴍᴏᴛɪᴏɴ🔥', callback_data='source')
-        ], [
-            InlineKeyboardButton('🌿ᴍʏ ᴏᴡɴᴇʀ🌿', url='https://tx.me/TamilDubAdmin_bot'),
-            InlineKeyboardButton('☺️ᴀʙᴏᴜᴛ ᴍᴇ☺️', callback_data='about')
+            InlineKeyboardButton('ᴍʏ ᴏᴡɴᴇʀ 🌿', url='https://tx.me/TamilDubAdmin_bot'),
+            InlineKeyboardButton('ᴀʙᴏᴜᴛ ᴍᴇ ☺️', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -241,7 +237,7 @@ async def start(client, message):
     buttons = [
                     [
                         InlineKeyboardButton('🚸 ᴅᴇʟᴇᴛᴇ', callback_data='close_data'),
-                        InlineKeyboardButton('💞 sʜᴀʀᴇ', url="https://t.me/share/url?url=%2A%2A%F0%9F%98%B1+Cinema+World.%C2%B2%C2%B7%E2%81%B0+%F0%9F%98%B1+%0D%0A+%0D%0AWhatever+you+might+ask%2C+you+will+get+a+movie%2C+collection+of+movies+in+most+languages+%E2%80%8B%E2%80%8Bof+the+world..+%E2%9D%A4%EF%B8%8F+%0D%0A+%0D%0A%F0%9F%91%87+GROUP+LINK+%F0%9F%91%87%0D%0Ahttps%3A%2F%2Ft.me%2FTrockersDiscussions%0D%0Ahttps%3A%2F%2Ft.me%2FTrockersDiscussions%0D%0Ahttps%3A%2F%2Ft.me%2FTrockersDiscussions")
+                        InlineKeyboardButton('💞 sʜᴀʀᴇ', url="https://t.me/share/url?url=Hi+bro%2C%0D%0AThis+bot+is+very+cool+%40TamilMovies_filter_bot+all+language+movies+are+available+in+the+bot+just+add+the+bot+to+your+groups+and+make+it+admin+it+will+start+provide+movies+in+your+groups+click+this+link+to+add+the+bot+%F0%9F%91%89+https%3A%2F%2Ft.me%2FTamilMovies_filter_bot%3Fstartgroup%3Dtrue")
                     ],
                     [
                         InlineKeyboardButton(text=f'🌿 Fɪʟᴇ sɪᴢᴇ 【 {size} 】🌿', callback_data='gxneo')
